@@ -50,6 +50,9 @@ Enthusiastic about Data Science :bar_chart: and Solving Algorithmic Problems :bu
 
 [![D'Angelo's Chat-System](https://github-readme-stats.vercel.app/api/pin/?username=DAngelo-S&repo=chat-system&theme=midnight-purple)](https://github.com/DAngelo-S/chat-system)
 
+
+[![D'Angelo's Programming Competitions](https://github-readme-stats.vercel.app/api/pin/?username=DAngelo-S&repo=Training-for-Programming-Competitions&theme=midnight-purple)](https://github.com/DAngelo-S/Training-for-Programming-Competitions)
+
 <!--
 ![D'Angelo's Github Stats](https://github-readme-stats.vercel.app/api?username=DAngelo-S&show_icons=true&count_private=true&theme=midnight-purple)
 -->
