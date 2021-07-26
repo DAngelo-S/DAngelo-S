@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 I'm from São Paulo, Brazil :brazil:  
 Student at University of São Paulo :sparkles:  
-Enthusiastic about Data Science :bar_chart: and Solving Algorithmic Problems :bulb:
+Enthusiastic about Data Science :bar_chart: and Solving Algorithmic Problems :bulb:  
+<!-- **2021 Goals** :outbox_tray: : Get job experience and increase my knowledge in data science and problem solving. -->
 
 **Connect with me:**
 <p align='center'>
@@ -40,11 +41,11 @@ Enthusiastic about Data Science :bar_chart: and Solving Algorithmic Problems :bu
   
 <img src=my-octocat.png width=50% align='left'>
 
-[![D'Angelo's Useful-Scripts](https://github-readme-stats.vercel.app/api/pin/?username=DAngelo-S&repo=Useful-Scripts&theme=midnight-purple)](https://github.com/DAngelo-S/Useful-Scripts)
+[![D'Angelo's Currency-Project](https://github-readme-stats.vercel.app/api/pin/?username=DAngelo-S&repo=Currency-Project&theme=midnight-purple)](https://github.com/DAngelo-S/Currency-Project)
 
 [![D'Angelo's Useful-Scripts](https://github-readme-stats.vercel.app/api/pin/?username=DAngelo-S&repo=Useful-Scripts&theme=midnight-purple)](https://github.com/DAngelo-S/Useful-Scripts)
 
-[![D'Angelo's Useful-Scripts](https://github-readme-stats.vercel.app/api/pin/?username=DAngelo-S&repo=Useful-Scripts&theme=midnight-purple)](https://github.com/DAngelo-S/Useful-Scripts)
+[![D'Angelo's Chat-System](https://github-readme-stats.vercel.app/api/pin/?username=DAngelo-S&repo=chat-system&theme=midnight-purple)](https://github.com/DAngelo-S/chat-system)
 
 <!--
 ![D'Angelo's Github Stats](https://github-readme-stats.vercel.app/api?username=DAngelo-S&show_icons=true&count_private=true&theme=midnight-purple)
