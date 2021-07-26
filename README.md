@@ -38,6 +38,7 @@ Enthusiastic about Data Science :bar_chart: and Solving Algorithmic Problems :bu
 </p>
  
 ## My principal projects
+
   
 <img src=my-octocat.png width=50% align='left'>
 
@@ -46,12 +47,9 @@ Enthusiastic about Data Science :bar_chart: and Solving Algorithmic Problems :bu
 
 [![D'Angelo's Missing-Semester](https://github-readme-stats.vercel.app/api/pin/?username=missing-semester-pt&repo=missing-semester-pt.github.io&theme=midnight-purple)](https://github.com/missing-semester-pt/missing-semester-pt.github.io)
 
-[![D'Angelo's Useful-Scripts](https://github-readme-stats.vercel.app/api/pin/?username=DAngelo-S&repo=Useful-Scripts&theme=midnight-purple)](https://github.com/DAngelo-S/Useful-Scripts)
-
-[![D'Angelo's Chat-System](https://github-readme-stats.vercel.app/api/pin/?username=DAngelo-S&repo=chat-system&theme=midnight-purple)](https://github.com/DAngelo-S/chat-system)
-
-
 [![D'Angelo's Programming Competitions](https://github-readme-stats.vercel.app/api/pin/?username=DAngelo-S&repo=Training-for-Programming-Competitions&theme=midnight-purple)](https://github.com/DAngelo-S/Training-for-Programming-Competitions)
+
+&nbsp;&nbsp;&nbsp;&nbsp; [![D'Angelo's Useful-Scripts](https://github-readme-stats.vercel.app/api/pin/?username=DAngelo-S&repo=Useful-Scripts&theme=midnight-purple)](https://github.com/DAngelo-S/Useful-Scripts) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![D'Angelo's Chat-System](https://github-readme-stats.vercel.app/api/pin/?username=DAngelo-S&repo=chat-system&theme=midnight-purple)](https://github.com/DAngelo-S/chat-system) 
 
 <!--
 ![D'Angelo's Github Stats](https://github-readme-stats.vercel.app/api?username=DAngelo-S&show_icons=true&count_private=true&theme=midnight-purple)
