@@ -88,7 +88,7 @@ Enthusiastic about Data Science :bar_chart: and Solving Algorithmic Problems :bu
 
 ## Certificates and Recognitions
 
-- :medal_sports: **10th at [Neps Academy Global Leaderboard](https://neps.academy/ranking/users)**\
+- :medal_sports: **29th at [Neps Academy Global Leaderboard](https://neps.academy/ranking/users)**\
 📆 2021
 
 - :medal_sports: **61th Brazilian Olympiad in Informatics**\
