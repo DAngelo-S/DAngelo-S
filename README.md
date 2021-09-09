@@ -70,14 +70,6 @@ Enthusiastic about Data Science :bar_chart: and Solving Algorithmic Problems :bu
 
 ## Education
 
-- 📖 **Data Science Bootcamp**\
-📆 Jun/2021 - Moment\
-📍 **Digital Innovation One**
-
-- 📖 **Web Development Bootcamp**\
-📆 Jun/2021 - Moment\
-📍 **Digital Innovation One**
-
 - 📖 **Computer Science B.S.**\
 📆 2018 - Moment\
 📍 **IME-USP: Instituto de Matemática e Estatística da USP**
@@ -88,7 +80,7 @@ Enthusiastic about Data Science :bar_chart: and Solving Algorithmic Problems :bu
 
 ## Certificates and Recognitions
 
-- :medal_sports: **29th at [Neps Academy Global Leaderboard](https://neps.academy/ranking/users)**\
+- :medal_sports: **34th at [Neps Academy Global Leaderboard](https://neps.academy/ranking/users)**\
 📆 2021
 
 - :medal_sports: **61th Brazilian Olympiad in Informatics**\
