@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-| <img src=my-octocat.png width=50%> | # Hi!!  |
+| <img src=my-octocat.png width=48%> | # Hi!!  |
 | --- | --- |
 | git status | Lista de todos os arquivos modificados ou novos |
 | git diff | Mostra as diferenças do arquivo que não foram preparadas |
@@ -40,7 +40,7 @@ Enthusiastic about Data Science :bar_chart: and Solving Algorithmic Problems :bu
 ## My principal projects
 
   
-<img src=my-octocat.png width=50% align='left'>
+<img src=my-octocat.png width=48% align='left'>
 
 [![D'Angelo's Currency-Project](https://github-readme-stats.vercel.app/api/pin/?username=DAngelo-S&repo=Currency-Project&theme=midnight-purple)](https://github.com/DAngelo-S/Currency-Project)
 
@@ -59,9 +59,12 @@ Enthusiastic about Data Science :bar_chart: and Solving Algorithmic Problems :bu
   <summary>My Resume 📃</summary>
 
 ## Experience
-
+- :fireworks: **Software Engineer Intern**\
+📆 Dez/2021 - Present\
+📍 **Amazon - SP**
+    
 - 📈 **Sysadmin**\
-📆 Sep/2019 - Aug/2021\
+📆 Sep/2019 - Nov/2021\
 📍 **Rede Linux IME USP**
 
 - 📚 **Teaching Program: Programming Challenges**\
