@@ -61,7 +61,7 @@ Enthusiastic about Data Science :bar_chart: and Solving Algorithmic Problems :bu
 
 ## Experience
 - :fireworks: **Software Engineer Intern**\
-📆 Dez/2021 - Present\
+📆 Dez/2021 - Moment\
 📍 **Amazon - SP**
     
 - 📈 **Sysadmin**\
@@ -78,13 +78,17 @@ Enthusiastic about Data Science :bar_chart: and Solving Algorithmic Problems :bu
 📆 2018 - Moment\
 📍 **IME-USP: Instituto de Matemática e Estatística da USP**
 
+- 📖 **Analysis and Systems Development A.S.**\
+📆 2021 - Moment\
+📍 **Faculdade Anhembi Morumbi**
+    
 - 📖 **Informatics Technician**\
 📆 2015 - 2017\
 📍 **IFSP: Instituto Federal de Educação Ciência e Tecnologia de São Paulo**
 
 ## Certificates and Recognitions
 
-- :medal_sports: **34th at [Neps Academy Global Leaderboard](https://neps.academy/ranking/users)**\
+- :medal_sports: **33th at [Neps Academy Global Leaderboard](https://neps.academy/ranking/users)**\
 📆 2021
 
 - :medal_sports: **61th Brazilian Olympiad in Informatics**\
