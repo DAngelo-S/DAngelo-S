@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 # Hii ! :satellite: I'm Débora D'Angelo :telescope:
 
 I'm from São Paulo, Brazil :brazil:  
-Student at University of São Paulo :sparkles:  
-Enthusiastic about Data Science :bar_chart: and Solving Algorithmic Problems :bulb:  
+Student at IMPA :sparkles:  
+Enthusiastic about Data Science :bar_chart:, Teoretical Computiong Science ➗: and Solving Algorithmic Problems :bulb:  
 <!-- **2021 Goals** :outbox_tray: : Get job experience and increase my knowledge in data science and problem solving. -->
 
 **Connect with me:**
@@ -37,20 +37,14 @@ Enthusiastic about Data Science :bar_chart: and Solving Algorithmic Problems :bu
   </a>&nbsp;&nbsp;
 </p>
  
-## My principal projects
+## My principal projects :WIP:
 
   
 <img src=my-octocat.png width=48% align='left'>
 
-[![D'Angelo's Currency-Project](https://github-readme-stats.vercel.app/api/pin/?username=DAngelo-S&repo=Currency-Project&theme=midnight-purple)](https://github.com/DAngelo-S/Currency-Project)
-
 
 [![D'Angelo's Missing-Semester](https://github-readme-stats.vercel.app/api/pin/?username=missing-semester-pt&repo=missing-semester-pt.github.io&theme=midnight-purple)](https://github.com/missing-semester-pt/missing-semester-pt.github.io)
 
-[![D'Angelo's Programming Competitions](https://github-readme-stats.vercel.app/api/pin/?username=DAngelo-S&repo=Training-for-Programming-Competitions&theme=midnight-purple)](https://github.com/DAngelo-S/Training-for-Programming-Competitions)
-
-<!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
-[![D'Angelo's Useful-Scripts](https://github-readme-stats.vercel.app/api/pin/?username=DAngelo-S&repo=Useful-Scripts&theme=midnight-purple)](https://github.com/DAngelo-S/Useful-Scripts) &nbsp; [![D'Angelo's Chat-System](https://github-readme-stats.vercel.app/api/pin/?username=DAngelo-S&repo=chat-system&theme=midnight-purple)](https://github.com/DAngelo-S/chat-system) 
 
 <!--
 ![D'Angelo's Github Stats](https://github-readme-stats.vercel.app/api?username=DAngelo-S&show_icons=true&count_private=true&theme=midnight-purple)
@@ -61,7 +55,11 @@ Enthusiastic about Data Science :bar_chart: and Solving Algorithmic Problems :bu
 
 ## Experience
 - :fireworks: **Software Engineer Intern**\
-📆 Dez/2021 - Moment\
+📆 Jun/2024 - Abr/2025
+📍 **Uber - SP**
+
+- :fireworks: **Software Engineer Intern**\
+📆 Dez/2021 - Dez/2023
 📍 **Amazon - SP**
     
 - 📈 **Sysadmin**\
@@ -75,12 +73,9 @@ Enthusiastic about Data Science :bar_chart: and Solving Algorithmic Problems :bu
 ## Education
 
 - 📖 **Computer Science B.S.**\
-📆 2018 - Moment\
-📍 **IME-USP: Instituto de Matemática e Estatística da USP**
-
-- 📖 **Analysis and Systems Development A.S.**\
-📆 2021 - Moment\
-📍 **Faculdade Anhembi Morumbi**
+📆 Fev/2019 - Jun/2025\
+📍 **IME-USP: Instituto de Matemática e Estatística da USP**\
+📍 **Universidade Cruzeiro do Sul**
     
 - 📖 **Informatics Technician**\
 📆 2015 - 2017\
