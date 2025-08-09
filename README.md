@@ -55,11 +55,11 @@ Enthusiastic about Data Science :bar_chart:, Teoretical Computiong Science ➗: 
 
 ## Experience
 - :fireworks: **Software Engineer Intern**\
-📆 Jun/2024 - Abr/2025
+📆 Jun/2024 - Abr/2025\
 📍 **Uber - SP**
 
 - :fireworks: **Software Engineer Intern**\
-📆 Dez/2021 - Dez/2023
+📆 Dez/2021 - Dez/2023\
 📍 **Amazon - SP**
     
 - 📈 **Sysadmin**\
