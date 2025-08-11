@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 I'm from São Paulo, Brazil :brazil:  
 Student at IMPA :sparkles:  
-Enthusiastic about Data Science :bar_chart:, Teoretical Computiong Science ➗: and Solving Algorithmic Problems :bulb:  
+Enthusiastic about Data Science :bar_chart:, Teoretical Computing Science ➗: and Solving Algorithmic Problems :bulb:  
 <!-- **2021 Goals** :outbox_tray: : Get job experience and increase my knowledge in data science and problem solving. -->
 
 **Connect with me:**
